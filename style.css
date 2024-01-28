@@ -1,0 +1,156 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height: 100%;  
+ 
+.logo{
+    width: 150px;
+    margin-top: 5px;
+
+}
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 30px;
+
+    
+}
+.nav-content{
+    display: flex;
+    list-style: none;
+}
+.nav-links{
+     padding-left: 20px;
+}
+.nav-button{
+  border-color: rgb(196, 194, 192);
+  width: 85px;
+  background-color: #23242A;
+  color: #ffffff;
+}
+.heading{
+    margin-top: 70px;
+}
+.lorem{
+    display: flex;
+    justify-content: center;
+ 
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+.main-heading{
+    display: flex;
+    justify-content: center;
+     font-weight: 900;
+    font-size: 60px;
+    
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+
+}
+.get-button{
+  margin-top: 30px;
+  height: 40px;
+  width: 140px;
+  background-color: rgb(216, 62, 62);
+  color: #ffffff;
+  border-radius: 7px;
+}
+.header-color{
+    background-color: #23242A;
+    color: #ffffff;
+    height: 500px;
+}
+.menu-container{
+    display: flex;
+    justify-content: center;
+}
+.menu-div{
+box-shadow: 2px 2px 2px #777777;
+ width: 250px;
+ height: 250px;
+ background-color: #ffffff;
+ border-radius: 7px;
+ margin-top: -50px;
+ margin-left: 22px;
+font-weight: 900;
+padding-left: 20px;
+}
+.menu-name{
+    padding: 20px 0px 20px 0px;
+
+    font-size: 25px;
+ 
+    line-height: 20px;
+}
+.content-container{
+    height: 500px;
+    padding-top: 100px;
+    display: flex;
+    padding-left: 200px;
+    align-items: center;
+}
+.content-heading{
+    font-size: 40px;
+    font-weight: bolder;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+.content-text{
+font-size: 25px
+}
+.img-container{
+    display: flex;
+}
+.container-link{
+    padding-top: 20px ;
+}
+.content-link{
+    font-size: 20px;
+    color: rgb(59, 157, 196);
+}
+.content-image{
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+    padding-left: 40px;
+}
+.container-2{
+margin: 50px;
+display: flex;
+justify-content: center;
+padding-right: 200px;
+flex-direction: row-reverse;
+align-items: center;
+}
+.heading-2{
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: bold; 
+    margin-bottom: 25px; 
+}
+.content-2{
+font-size: 20PX;
+font-size: 25PX;
+}
+.img-2{
+width: 350px;
+height: 400px;
+border-radius: 7px;
+padding-right: 40px;
+}
+.link-container-2{
+    padding-top: 20px ;
+}
+.link-content-2{
+    font-size: 20px;
+    color: rgb(59, 157, 196);
+}
+
